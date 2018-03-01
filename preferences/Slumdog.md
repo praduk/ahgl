@@ -1,4 +1,3 @@
-Slumdog
 Backwater 5
 Abiogenesis 5
 AcidPlant 3

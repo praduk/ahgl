@@ -1,4 +1,3 @@
-FireFerret
 AcidPlant 3
 Blackpink 3
 NeonVioletSquare 3

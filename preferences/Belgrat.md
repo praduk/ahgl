@@ -1,4 +1,3 @@
-Puzzle
 AcidPlant 5
 Blackpink 4
 NeonVioletSquare 4

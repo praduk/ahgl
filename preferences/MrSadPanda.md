@@ -1,4 +1,3 @@
-TemplarAF
 Backwater 1
 Abiogenesis 1
 AcidPlant 3
