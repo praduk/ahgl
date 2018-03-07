@@ -1,7 +1,7 @@
-Backwater 1
-Abiogenesis 1
-AcidPlant 3
-Blackpink 3
+Backwater 3
+Abiogenesis 2
+AcidPlant 5
+Blackpink 1
 Catalyst 3
 Eastwatch 4
-NeonVioletSquare 4
+NeonVioletSquare 3
