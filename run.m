@@ -5,23 +5,23 @@ close all;
 
 % Uncomment Maps (Ctrl-R, Ctrl-T)
 maps = {
-%     'Abiogenesis'
+    'Abiogenesis'
     'AcidPlant'
-    'Backwater'
-%     'Blackpink'
+%    'Backwater'
+    'Blackpink'
     'Catalyst'
-%     'Eastwatch'
-    'NeonVioletSquare'
+%    'Eastwatch'
+%    'NeonVioletSquare'
 };
 
 % Uncomment Players
 players = {
     'MrSadPanda'
-    'Puzzle'
+%    'Puzzle'
     'TemplarAF'
     'Slumdog'
 %     'FireFerret'
-%     'Belgrat'
+     'Belgrat'
 };
 
 %%%%%%%%%%%%% MODIFY ABOVE %%%%%%%%%%%%%
