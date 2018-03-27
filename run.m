@@ -4,24 +4,26 @@ close all;
 %%%%%%%%%%%%% MODIFY BELOW %%%%%%%%%%%%%
 
 % Uncomment Maps (Ctrl-R, Ctrl-T)
-maps = {
-    'Abiogenesis'
-    'AcidPlant'
-%    'Backwater'
-    'Blackpink'
+maps =
+{
+    'NeonVioletSquare'
     'Catalyst'
+    'Blackpink'
+    'Backwater'
+%    'Abiogenesis'
+%    'AcidPlant'
 %    'Eastwatch'
-%    'NeonVioletSquare'
 };
 
 % Uncomment Players
-players = {
+players =
+{
     'MrSadPanda'
-%    'Puzzle'
+    'Puzzle'
     'TemplarAF'
-    'Slumdog'
-%     'FireFerret'
-     'Belgrat'
+%    'Slumdog'
+%    'FireFerret'
+    'Belgrat'
 };
 
 %%%%%%%%%%%%% MODIFY ABOVE %%%%%%%%%%%%%
